@@ -5,8 +5,6 @@
 ---
 - [Дипломная работа Penetration Testing](https://github.com/netology-code/sib-Diplom-Track-Penetration-Testing): [ссылка на выполненную работу](https://hackmd.io/@bGKwFoX5RZCLPKCzqfq8LQ/B1MYnbd8c) 
 
-- [Итоговая работа по модулю “Аttack & Defence”](https://github.com/netology-code/ibdef-homeworks/blob/master/07_pentest_2/README.md): [ссылка на выполненную работу](https://hackmd.io/@bGKwFoX5RZCLPKCzqfq8LQ/B1MYnbd8c) 
-
 - [Курсовая работа по модулю «Безопасность операционных систем»](https://github.com/netology-code/sib-secure-kontur-diploma): [ссылка на выполненную работу](https://docs.google.com/document/d/1YPZFJ19KmFNKTkpYb7Vo-qGuOyB1mCZ1x6rp0GjlSxo/edit) 
 
 Сертификаты «GROUP IB»
